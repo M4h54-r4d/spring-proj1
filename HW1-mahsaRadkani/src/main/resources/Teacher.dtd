@@ -1,0 +1,4 @@
+<!ELEMENT Teacher (firstName,lastName,course)>
+<!ELEMENT firstName (#PCDATA)>
+<!ELEMENT lastName (#PCDATA)>
+<!ELEMENT course (#PCDATA)>

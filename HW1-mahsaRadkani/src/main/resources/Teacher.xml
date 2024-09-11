@@ -1,0 +1,7 @@
+
+<?xml-model href="Teacher.xsd"?>
+<Teacher>
+	<firstName>alireza</firstName>
+	<lastName>Fattahi</lastName>
+	<course>java</course>
+</Teacher>
